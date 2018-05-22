@@ -240,6 +240,16 @@ display: block;
   color: #687733;
   font-size: 16px;
   text-align: justify;
+  margin-top: 40px;
+}
+
+.story-2 {
+  font-family: 'karla', sans-serif;
+  color: #687733;
+  font-size: 16px;
+  text-align: justify;
+  padding-top: 30px;
+  margin: 20px;
 }
 
 /* ----------------------------------------
@@ -269,6 +279,15 @@ margin: 50px;
   padding-top: 20px;
   padding-bottom: 20px;
   margin: 50px;
+}
+
+.highlight-2 {
+  background: url("../images/about_illustration-2-36.svg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  height: 425px;
 }
 
 .coffee-notes {
@@ -424,7 +443,13 @@ img {
 }
 
 .partners {
-  margin-left: 225px;
+  margin-left: 160px;
+}
+
+.about-pic {
+  width: 1000px;
+  padding-left: 130px;
+  margin: 35px;
 }
 /* ---------------------------------------------------------
     R O A S T S     S T Y L E S
